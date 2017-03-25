@@ -1,0 +1,8 @@
+As of right now my code allows the user to create as many eateries and checkouts as they want
+
+It will add people and randomly place them in an eatery and varys the time there at the eatery
+
+Then they will be added to a checkout que which is STATIC between all checkouts so each checkout can pull from it
+
+The one problem is the ques max size is 0 and I think it is because it diesnt delay for the check outs and just automatically pulls
+im not quite sure on that one.
